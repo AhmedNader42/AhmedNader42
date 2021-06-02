@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmed Nader
-- 👀 I’m interested in Computer science in general.
-- 🌱 I’m currently learning Back end development with Python, Javascript and Go
-- 💞️ I’m looking to collaborate on interesting ideasl.
+- 👀 I’m interested in Computer science in general. Focusing right now on iOS as my job.
+- 💞️ I’m looking to collaborate on interesting ideas.
 
 <!---
 AhmedNader42/AhmedNader42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
