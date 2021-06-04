@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Nader
-- 👀 I’m interested in Computer science in general. Focusing right now on iOS as my job.
+- 👀 I’m interested in Computer science in general.
 - 💞️ I’m looking to collaborate on interesting ideas.
 
 <!---
