@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Nader
-- 👀 I’m interested in all things Data Engineering.
+- 👀 I’m interested in all things Software Engineering.
 - 💞️ I’m looking to collaborate on interesting ideas.
 
 <!---
